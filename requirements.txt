@@ -1,6 +1,6 @@
-streamlit
-langchain
-langchain-community
-langchain-core
-langchain-google-genai
+streamlit>=1.37
 python-dotenv
+langchain>=0.3,<1.0
+langchain-core>=0.3,<1.0
+langchain-community>=0.3,<1.0
+langchain-google-genai>=2.0
